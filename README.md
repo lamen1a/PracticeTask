@@ -7,3 +7,6 @@
 
 Шаг 2: Готуємо файл до коміту та пушим на Git-hub.
 
+![photo1624312105](https://user-images.githubusercontent.com/86248336/122832155-9eeab580-d2f3-11eb-9356-f081f2869b2d.jpeg)
+
+SSH key доданий.
